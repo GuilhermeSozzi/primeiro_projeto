@@ -1,4 +1,4 @@
-#Git e GitHuba
+#Git e GitHub
 
 Aprendendo a mexer no git e github
 
